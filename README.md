@@ -32,6 +32,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
+The easiest part is following the video to build the app. Since I am not familiar with terminal and github, that part was a bit hard for me. Very interesting homework. I will keep working to improve the app features.
 
 
 ## License
